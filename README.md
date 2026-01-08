@@ -1,3 +1,4 @@
+'''
 enterprise-portal/
 │
 ├── angular.json
@@ -60,7 +61,7 @@ enterprise-portal/
                     ├── add-battery.css
                     └── add-battery.spec.t
 
-
+'''
 EV Battery Lifecycle & Warranty Management System
 1. Purpose of the System
 
